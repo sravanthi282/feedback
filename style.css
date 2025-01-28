@@ -1,0 +1,138 @@
+body{
+  margin :0px;
+  padding:0px;
+  height:100vh;
+  background-color: aliceblue;
+  align-items: center;
+  justify-content: center;
+
+}
+h2{
+    
+    color: blue;
+    background-color: white;
+    display: flex;
+    width: 400px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 438px;
+}
+
+.container form{
+    width: 100%; 
+     background-color: white; 
+     max-width: 600px;
+     padding: 20px; 
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+     border-radius: 10px; 
+     text-align: center;
+     justify-content: center;
+     margin-left: 100px;
+}
+textarea{
+    height: auto;
+    width: 400px;
+}
+.container{
+    text-decoration: solid;
+    border: solid 2px black;
+    margin: 20px;
+    padding: 200px;
+    width: 600px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80%;
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: content-box;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+label{
+    color: blue;
+}
+.form.names{
+    color: blue;
+    display: inline;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size:xx-large;
+    font-weight:bolder;
+    margin: 0%;
+    padding: 0%;
+    align-items: flex-start;
+    margin-top: 20px;
+    color: black;
+  
+}
+
+
+.title{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.sra{
+    display: flex;
+    justify-content: center;
+    margin-right: 580px;
+}
+img{
+    align-items: start;
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+    justify-content: flex-start;
+    
+
+}
+
+.hello{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 350px;
+}
+.btn{
+    margin-left: 100px;
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+button{
+    color: rgb(12, 2, 2);
+    background-color:rgb(66, 12, 227);
+    margin-left: 10px;
+    margin-right: 200px;
+}
+button:hover{
+    background-color: darkorange;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.container form:hover{
+    max-height:600px;
+    max-width:500px ;
+}
