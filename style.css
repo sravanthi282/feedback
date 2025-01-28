@@ -100,6 +100,9 @@ img{
     
 
 }
+.gender{
+    color: rgb(66, 12, 227);
+}
 
 .hello{
     display: flex;
